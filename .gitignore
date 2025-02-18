@@ -135,3 +135,7 @@ dmypy.json
 
 # Tensorflow
 tf_text_graph_ssd.py
+
+
+models/ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.pb filter=lfs diff=lfs merge=lfs -text
+opencv_bootcamp_assets_13.zip filter=lfs diff=lfs merge=lfs -text
