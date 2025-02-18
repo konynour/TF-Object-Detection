@@ -20,6 +20,10 @@ This project implements object detection using a pre-trained **SSD MobileNet v2*
 - Python 3.x
 - OpenCV (`cv2`)
 - Matplotlib
+- numpy
+- os
+- urllib
+- zipfile
 - TensorFlow Model Zoo (pre-trained models)
 
 ## 🔧 Installation
