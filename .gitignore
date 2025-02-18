@@ -1,0 +1,17 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore output cells in notebooks
+*.ipynb_output/
+
+# Ignore large data files
+data/
+*.csv
+*.hdf5
+*.npy
+*.pkl
+
+# Ignore environment files
+venv/
+.env
+requirements.txt
